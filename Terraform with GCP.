@@ -320,3 +320,11 @@ Terraform lets you remove all the resources defined in the configuration file by
 
 terraform destroy
 Enter yes to allow Terraform to delete your resources.
+
+
+
+-----------------------------------------------------------------
+What's next
+Learn how to export your Google Cloud resources into Terraform format.
+
+https://cloud.google.com/docs/terraform/deploy-flask-web-server#whats_next
