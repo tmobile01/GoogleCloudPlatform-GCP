@@ -1,3 +1,7 @@
+Resource used for this repo: 
+https://cloud.google.com/docs/terraform/deploy-flask-web-server
+
+
 Deploy a basic Flask web server by using Terraform. Visual Studio Code should be installed on your computer with the terraform extension installed. Visual Studio Code is free of charge. The software can be installed on MacOsX or Windows 10 or Windows 11.
 You will do the following:
 
