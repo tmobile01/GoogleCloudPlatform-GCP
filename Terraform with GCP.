@@ -1,0 +1,14 @@
+Deploy a basic Flask web server by using Terraform. Visual Studio Code should be installed on your computer with the terraform extension installed. Visual Studio Code is free of charge. The software can be installed on MacOsX or Windows 10 or Windows 11.
+You will do the following:
+
+Use Terraform to create a VM in Google Cloud.
+Start a basic Python Flask server.
+
+Costs
+In this document, you use the following billable components of Google Cloud:
+
+Compute Engine
+
+To generate a cost estimate based on your projected usage, use the pricing calculator.
+
+When you finish the tasks that are described in this document, you can avoid continued billing by deleting the resources that you created. For more information, see Clean up.
